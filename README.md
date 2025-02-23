@@ -1,6 +1,8 @@
 # Awesome-Speech-Multimodal
 | Paper                                                                                                   | Method | Venue                      | Code    |
 |---------------------------------------------------------------------------------------------------------|--------|----------------------------|---------|
+| [Wav2Vec2.0: Self-supervised learning for speech recognition](https://proceedings.neurips.cc/paper/2020/file/92d1e1eb1cd6f9fba3227870bb6d7f07-Paper.pdf) | - | Neurips 2020 | [Github](https://github.com/facebookresearch/fairseq) |
+| [Speech-Driven Image Editing](https://openaccess.thecvf.com/content/CVPR2024/papers/Lin_Text-Driven_Image_Editing_via_Learnable_Regions_CVPR_2024_paper.pdf) | - | CVPR 2024 | [Github](https://yuanze-lin.me/LearnableRegions_page/) |
 | [ViLReF: An Expert Knowledge Enabled Vision-Language Retinal Foundation Model](https://arxiv.org/abs/2408.10894) | - | Tip 2024  | [Github](https://github.com/T6Yang/ViLReF) |
 | [Positive-Aware Lesion Detection Network with Cross-scale Feature Pyramid for OCT Images](https://www.researchgate.net/publication/346068882_Positive-Aware_Lesion_Detection_Network_with_Cross-scale_Feature_Pyramid_for_OCT_Images) | -  | Miccai 2020 | -  |
 | [You Only Speak Once to See](https://arxiv.org/abs/2409.18372) | - | - |
@@ -87,3 +89,4 @@
 | [Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models](https://arxiv.org/abs/2409.17146)| - | arXiv Dec 2024 | [Github](https://github.com/allenai/molmo)|
 | [i-Code V2: An Autoregressive Generation Framework over Vision, Language, and Speech Data](https://aclanthology.org/2024.findings-naacl.105/) | - | 2024.findings-naacl | - |
 | [FINE-GRAINED AUDIO-VISUAL JOINT REPRESENTATIONS FOR MULTIMODAL LARGE LANGUAGE MODELS](https://openreview.net/forum?id=wD8L86iCvD) | - | ICLR 2024 | [Github](https://github.com/the-anonymous-bs/av-SALMONN) |
+| [Whisper: Robust Speech Recognition](https://arxiv.org/abs/2212.04356) | - | arXiv Dec 2022 | [Github](https://github.com/openai/whisper) |
