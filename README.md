@@ -2,12 +2,12 @@
 | Paper                                                                                                   | Method | Venue                      | Code    |
 |---------------------------------------------------------------------------------------------------------|--------|----------------------------|---------|
 | [ViLReF: An Expert Knowledge Enabled Vision-Language Retinal Foundation Model](https://arxiv.org/abs/2408.10894) | - | Tip 2024  | [Github](https://github.com/T6Yang/ViLReF) |
-| Positive-Aware Lesion Detection Network with Cross-scale Feature Pyramid for OCT Images | -  | Miccai 2020 | -  |
+| [Positive-Aware Lesion Detection Network with Cross-scale Feature Pyramid for OCT Images](https://www.researchgate.net/publication/346068882_Positive-Aware_Lesion_Detection_Network_with_Cross-scale_Feature_Pyramid_for_OCT_Images) | -  | Miccai 2020 | -  |
 | [You Only Speak Once to See](https://arxiv.org/abs/2409.18372) | - | - |
 | [Speech-to-Image Creation Using Jina](https://jina.ai/news/speech-to-image-generation/) | - | Oct 2022 | - |
 | [VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction](https://arxiv.org/pdf/2501.01957)  | -      | arXiv Jan 2025  | [Github](https://github.com/VITA-MLLM/VITA) |
 | [Viiat-Hand: A Reach-and-Grasp Restoration System Integrating Voice Interaction, Computer Vision, Auditory and Tactile Feedback for Non-Sighted Amputees](https://ieeexplore.ieee.org/document/10643668)  | - |  IEEE Robotics and Automation Letters 2024 ｜ -  |
-| Chimera: Effectively Modeling Multivariate Time Series with 2-Dimensional State Space Models | - | NeurIPS 2024 | - |
+| [Chimera: Effectively Modeling Multivariate Time Series with 2-Dimensional State Space Models](https://openreview.net/forum?id=ncYGjx2vnE&noteId=SB0dLuJeL7) | - | NeurIPS 2024 | - |
 | [A Comprehensive Survey on Diffusion Models and Their Applications](https://arxiv.org/abs/2408.10207)   | -      | July 2024          | -  |
 | [SAV-SE: Scene-aware Audio-Visual Speech Enhancement with Selective State Space Model](https://arxiv.org/abs/2411.07751) | -      | arXiv 12 Nov 2024   | - |
 | [A Comprehensive Survey on Applications of Transformers for Deep Learning Tasks](https://arxiv.org/abs/2306.07303) | -      | Elsevier 2023  | [Github](https://github.com/mangye16/ReID-Survey)|
@@ -26,7 +26,7 @@
 | [JambaTalk: Speech-Driven 3D Talking Head Generation Based on Hybrid Transformer-Mamba Model](https://arxiv.org/abs/2408.01627) | - | Aug 2024  | - |
 | [Latent Semantic and Disentangled Attention](https://ieeexplore.ieee.org/document/10607968) | - |TPAMI 2024 | - |
 | [KMTalk: Speech-Driven 3D Facial Animation with Key Motion Embedding](https://arxiv.org/abs/2409.01113)   | -      |  ECCV 2024        |[GitHub](https://github.com/ffxzh/KMTalk)      |
-|Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges| arXiv april 2024 | [GitHub](https://github.com/badripatro/mamba360) |
+| [Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges](https://arxiv.org/abs/2404.16112)| arXiv april 2024 | [GitHub](https://github.com/badripatro/mamba360) |
 | [AudioPaLM: A Large Language Model That Can Speak and Listen](https://arxiv.org/abs/2407.14474)      | -      | 	arXiv Jun 2023          | -  |
 | [VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time](https://arxiv.org/abs/2404.10667) | -  | NeurIPS 2024 (Oral) | - |
 | Chimera: Effectively Modeling Multivariate Time Series with 2-Dimensional State Space Models | NeurIPS 2024  | - |
