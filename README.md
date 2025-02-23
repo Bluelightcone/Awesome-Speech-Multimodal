@@ -26,7 +26,7 @@
 | [JambaTalk: Speech-Driven 3D Talking Head Generation Based on Hybrid Transformer-Mamba Model](https://arxiv.org/abs/2408.01627) | - | Aug 2024  | - |
 | [Latent Semantic and Disentangled Attention](https://ieeexplore.ieee.org/document/10607968) | - |TPAMI 2024 | - |
 | [KMTalk: Speech-Driven 3D Facial Animation with Key Motion Embedding](https://arxiv.org/abs/2409.01113)   | -      |  ECCV 2024        |[GitHub](https://github.com/ffxzh/KMTalk)      |
-| [Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges](https://arxiv.org/abs/2404.16112)| arXiv april 2024 | [GitHub](https://github.com/badripatro/mamba360) |
+| [Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges](https://arxiv.org/abs/2404.16112)| - | arXiv april 2024 | [GitHub](https://github.com/badripatro/mamba360) |
 | [AudioPaLM: A Large Language Model That Can Speak and Listen](https://arxiv.org/abs/2407.14474)      | -      | 	arXiv Jun 2023          | -  |
 | [VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time](https://arxiv.org/abs/2404.10667) | -  | NeurIPS 2024 (Oral) | - |
 | Chimera: Effectively Modeling Multivariate Time Series with 2-Dimensional State Space Models | NeurIPS 2024  | - |
@@ -35,9 +35,7 @@
 | [Toward Large-scale Spiking Neural Networks: A Comprehensive Survey and Future Directions](https://arxiv.org/abs/2409.02111) | - | Aug 2024 | - |
 | [Learn2Talk: 3D Talking Face Learns from 2D Talking Face](https://arxiv.org/abs/2404.12888) | - | TVCG 2024 |  ｜ - ｜
 | [Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive Modality Alignment](https://arxiv.org/abs/2502.04328) | - | ACM MM 2024 | - |
-| [TRAMBA: A Hybrid Transformer and Mamba Architecture for Practical Audio and Bone Conduction Speech Super Resolution and Enhancement on Mobile and Wearable Platforms](https://dl.acm.org/doi/10.1145/3699757
-        
-        ) | - | ACM UbiComp 2024 ｜ - ｜
+| [TRAMBA: A Hybrid Transformer and Mamba Architecture for Practical Audio and Bone Conduction Speech Super Resolution and Enhancement on Mobile and Wearable Platforms](https://dl.acm.org/doi/10.1145/3699757) | - | ACM UbiComp 2024 ｜ - ｜
 | [Preference Tuning with Human Feedback on Language, Speech, and Vision Tasks: A Survey](https://arxiv.org/abs/2409.11564) | - | arXiv Nov 2024 | -  |
 | [Let SSMs be ConvNets: State-space Modeling with Optimal Tensor Contractions](https://openreview.net/forum?id=PkpNRmBZ32) | - | ICLR 2025 Spotlight | - |
 | [video-SALMONN: Speech-Enhanced Audio-Visual Large Language Models](https://arxiv.org/abs/2406.15704) | - | ICML 2024 | [Github](https://github.com/bytedance/SALMONN/) |
