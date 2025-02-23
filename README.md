@@ -48,7 +48,7 @@
 | [MS2Mesh-XR: Multi-modal Sketch-to-Mesh Generation in XR Environments](https://arxiv.org/abs/2412.09008) | - | 	IEEE AIxVR 2025 | - |
 | [Quilt-1M: One Million Image-Text Pairs for Histopathology](https://proceedings.neurips.cc/paper_files/paper/2023/file/775ec578876fa6812c062644964b9870-Paper-Datasets_and_Benchmarks.pdf) | - | NeurIPS 2023 Track on Datasets and Benchmarks |  [Github](https://github.com/wisdomikezogwo/quilt1m) |
 | [Quilt-LLaVA: Visual Instruction Tuning by Extracting Localized Narratives from Open-Source Histopathology Videos](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Seyfioglu_Quilt-LLaVA_Visual_Instruction_CVPR_2024_supplemental.pdf) | - | CVPR 2024 | [Github](https://github.com/aldraus/quilt-llava) |
-| [Parameter-Efficient Fine-Tuning for Medical Image Analysis: The Missed Opportunity](https://openreview.net/forum?id=LVRhXa0q5r) | - | MIDL 2024 Oral | -  ｜
+| [Parameter-Efficient Fine-Tuning for Medical Image Analysis: The Missed Opportunity](https://openreview.net/forum?id=LVRhXa0q5r) | - | MIDL 2024 Oral | - |
 | [Improving Medical Speech-to-Text Accuracy using Vision-Language Pre-training Models](https://ieeexplore.ieee.org/document/10372102) | - | IEEE Journal of Biomedical and Health Informatics  2024 | - 
 | [MixCon: A Hybrid Architecture for Efficient and Adaptive Sequence Modeling](https://zhouchenlin.github.io/Publications/2024-ECAI-MixCon.pdf) | - | ECAI 2024 ｜ -  |
 | [Multimodal Latent Language Modeling with Next-Token Diffusion](https://arxiv.org/abs/2412.08635) | - | arXiv Dec 2024  | [Github](https://github.com/microsoft/unilm/tree/master/LatentLM) |
