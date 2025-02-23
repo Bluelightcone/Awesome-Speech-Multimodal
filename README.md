@@ -14,12 +14,12 @@
 | [DiM-Gestor: Co-Speech Gesture Generation with Adaptive Layer Normalization Mamba-2](https://arxiv.org/abs/2411.16729) | -     | arXiv Nov 2024   | - |
 | [Image, Text, and Speech Data Augmentation using Multimodal LLMs for Deep Learning: A Survey](https://arxiv.org/abs/2501.18648)     | -      | Jan 2025   | [Github](https://github.com/wsuagrobotics/data-aug-multi-modal-llm)   |
 | [Mini-Omni2: Towards Open-source GPT-4o with Vision, Speech and Duplex Capabilities](https://arxiv.org/abs/2410.11190)       | -      | arXiv Nov 2024          | [Github](https://github.com/gpt-omni/mini-omni2)  |
-| [Mixture-of-Transformers: A Sparse and Scalable Architecture for Multi-Modal Foundation Models](https://arxiv.org/abs/2411.04996)| -      | arXiv Nov 2024 | -    |
+| [Mixture-of-Transformers: A Sparse and Scalable Architecture for Multi-Modal Foundation Models](https://arxiv.org/abs/2411.04996)| -    | arXiv Nov 2024 | -    |
 | [Mamba in Speech: Towards an Alternative to Self-Attention](https://arxiv.org/abs/2405.12609)| -   |  arXiv Ovt 2024  | [Github](https://github.com/Tonyyouyou/Mamba-in-Speech)  |
 | [video-SALMONN: Speech-Enhanced Audio-Visual Large Language Models](https://arxiv.org/html/2406.15704v1/) | - | arXiv Jun 2024 |  [Github](https://github.com/bytedance/SALMONN/)  |
 | [Graph Convolutions Enrich the Self-Attention in Transformers!](https://arxiv.org/pdf/2312.04234) | - | NeurIPS 2024 | [Github](https://github.com/jeongwhanchoi/GFSA) |
 | [VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time](https://arxiv.org/abs/2404.10667)   |   -   |   	NeurIPS 2024 (Oral) | - |
-|Mixture-of-Mamba: Enhancing Multi-Modal State-Space Models with Modality-Aware Sparsity| - | arXiv Jan 2025| [Github](https://github.com/weixin-liang/mixture-of-mamba)|
+| [Mixture-of-Mamba: Enhancing Multi-Modal State-Space Models with Modality-Aware Sparsity](https://arxiv.org/abs/2501.16295)| - | arXiv Jan 2025| [Github](https://github.com/weixin-liang/mixture-of-mamba)|
 | [Theory, Analysis, and Best Practices for Sigmoid Self-Attention](https://arxiv.org/abs/2409.04431) | - | arXiv Jan 2025 | [Github](https://github.com/apple/ml-sigmoid-attention)|
 | [Sonic: Shifting Focus to Global Audio Perception in Portrait Animation](https://arxiv.org/pdf/2411.16331) | - | Nov 2024 |[Github](https://github.com/jixiaozhong/Sonic) |
 | [ConvoFusion: Multi-Modal Conversational Diffusion for Co-Speech Gesture Synthesis](https://arxiv.org/abs/2403.17936) | - | CVPR 2024 | [Github](https://github.com/m-hamza-mughal/convofusion)|
@@ -35,7 +35,9 @@
 | [Toward Large-scale Spiking Neural Networks: A Comprehensive Survey and Future Directions](https://arxiv.org/abs/2409.02111) | - | Aug 2024 | - |
 | [Learn2Talk: 3D Talking Face Learns from 2D Talking Face](https://arxiv.org/abs/2404.12888) | - | TVCG 2024 |  ｜ - ｜
 | [Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive Modality Alignment](https://arxiv.org/abs/2502.04328) | - | ACM MM 2024 | - |
-| [TRAMBA: A Hybrid Transformer and Mamba Architecture for Practical Audio and Bone Conduction Speech Super Resolution and Enhancement on Mobile and Wearable Platforms](https://dl.acm.org/doi/10.1145/3699757) | - | ACM UbiComp 2024 ｜ - ｜
+| [TRAMBA: A Hybrid Transformer and Mamba Architecture for Practical Audio and Bone Conduction Speech Super Resolution and Enhancement on Mobile and Wearable Platforms](https://dl.acm.org/doi/10.1145/3699757
+        
+        ) | - | ACM UbiComp 2024 ｜ - ｜
 | [Preference Tuning with Human Feedback on Language, Speech, and Vision Tasks: A Survey](https://arxiv.org/abs/2409.11564) | - | arXiv Nov 2024 | -  |
 | [Let SSMs be ConvNets: State-space Modeling with Optimal Tensor Contractions](https://openreview.net/forum?id=PkpNRmBZ32) | - | ICLR 2025 Spotlight | - |
 | [video-SALMONN: Speech-Enhanced Audio-Visual Large Language Models](https://arxiv.org/abs/2406.15704) | - | ICML 2024 | [Github](https://github.com/bytedance/SALMONN/) |
