@@ -1,7 +1,7 @@
 # Awesome-Speech-Multimodal
 | Paper                                                                                                   | Method | Venue                      | Code    |
 |---------------------------------------------------------------------------------------------------------|--------|----------------------------|---------|
-| [Interactive Shape Sonification for Tumor Localization in Breast Cancer Surgery](https://dl.acm.org/doi/10.1145/3613904.3642257) | - | CHI '24 |  -  ｜
+| [Interactive Shape Sonification for Tumor Localization in Breast Cancer Surgery](https://dl.acm.org/doi/10.1145/3613904.3642257 ) | - | CHI '24 |  - |
 | [LSMS: Language-guided Scale-aware MedSegmentor for Medical Image Referring Segmentation](https://arxiv.org/abs/2408.17347) | - | arXiv Sep 2024 | - |
 | [TV-SAM: Increasing Zero-Shot Segmentation Performance on Multimodal Medical Images Using GPT-4 Generated Descriptive Prompts Without Human Annotation](https://arxiv.org/ftp/arxiv/papers/2402/2402.15759.pdf)| - |BDMA 2024 |[Github](https://github.com/JZK00/TV-SAM) |
 | [Eye-gaze Guided Multi-modal Alignment for Medical Representation Learning](https://openreview.net/forum?id=0bINeW40u4&noteId=sT5VFY5SOC) | - | NeurIPS 2024 poster | -  |
@@ -38,7 +38,7 @@
 | [INFP: Audio-Driven Interactive Head Generation in Dyadic Conversations](https://grisoon.github.io/INFP/) | - | Dec 2024 | - |
 | [Media2Face: Co-speech Facial Animation Generation With Multi-Modality Guidance](https://arxiv.org/abs/2401.15687)  | - |  Jan 2025  |  - |
 | [Toward Large-scale Spiking Neural Networks: A Comprehensive Survey and Future Directions](https://arxiv.org/abs/2409.02111) | - | Aug 2024 | - |
-| [Learn2Talk: 3D Talking Face Learns from 2D Talking Face](https://arxiv.org/abs/2404.12888) | - | TVCG 2024 |  ｜ - ｜
+| [Learn2Talk: 3D Talking Face Learns from 2D Talking Face](https://arxiv.org/abs/2404.12888) | - | TVCG 2024 | - |
 | [Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive Modality Alignment](https://arxiv.org/abs/2502.04328) | - | ACM MM 2024 | - |
 | [TRAMBA: A Hybrid Transformer and Mamba Architecture for Practical Audio and Bone Conduction Speech Super Resolution and Enhancement on Mobile and Wearable Platforms](https://dl.acm.org/doi/10.1145/3699757) | - | ACM UbiComp 2024 ｜ - ｜
 | [Preference Tuning with Human Feedback on Language, Speech, and Vision Tasks: A Survey](https://arxiv.org/abs/2409.11564) | - | arXiv Nov 2024 | -  |
