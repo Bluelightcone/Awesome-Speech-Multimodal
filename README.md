@@ -3,7 +3,7 @@
 |---------------------------------------------------------------------------------------------------------|--------|----------------------------|---------|
 | [Interactive Shape Sonification for Tumor Localization in Breast Cancer Surgery](https://dl.acm.org/doi/10.1145/3613904.3642257) | - | CHI '24 |  -  ｜
 | [LSMS: Language-guided Scale-aware MedSegmentor for Medical Image Referring Segmentation](https://arxiv.org/abs/2408.17347) | - | arXiv Sep 2024 | - |
-| [TV-SAM: Increasing Zero-Shot Segmentation Performance on Multimodal Medical Images Using GPT-4 Generated Descriptive Prompts Without Human Annotation](https://arxiv.org/ftp/arxiv/papers/2402/2402.15759.pdf) | - ｜ BDMA 2024 |[Github](https://github.com/JZK00/TV-SAM) |
+| [TV-SAM: Increasing Zero-Shot Segmentation Performance on Multimodal Medical Images Using GPT-4 Generated Descriptive Prompts Without Human Annotation](https://arxiv.org/ftp/arxiv/papers/2402/2402.15759.pdf)| - ｜BDMA 2024 |[Github](https://github.com/JZK00/TV-SAM) |
 | [Eye-gaze Guided Multi-modal Alignment for Medical Representation Learning](https://openreview.net/forum?id=0bINeW40u4&noteId=sT5VFY5SOC) | - | NeurIPS 2024 poster | -  |
 | [Wav2Vec2.0: Self-supervised learning for speech recognition](https://proceedings.neurips.cc/paper/2020/file/92d1e1eb1cd6f9fba3227870bb6d7f07-Paper.pdf) | - | Neurips 2020 | [Github](https://github.com/facebookresearch/fairseq) |
 | [Speech-Driven Image Editing](https://openaccess.thecvf.com/content/CVPR2024/papers/Lin_Text-Driven_Image_Editing_via_Learnable_Regions_CVPR_2024_paper.pdf) | - | CVPR 2024 | [Github](https://yuanze-lin.me/LearnableRegions_page/) |
