@@ -38,9 +38,7 @@
 | [Toward Large-scale Spiking Neural Networks: A Comprehensive Survey and Future Directions](https://arxiv.org/abs/2409.02111) | - | Aug 2024 | - |
 | [Learn2Talk: 3D Talking Face Learns from 2D Talking Face](https://arxiv.org/abs/2404.12888) | - | TVCG 2024 | - |
 | [Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive Modality Alignment](https://arxiv.org/abs/2502.04328) | - | ACM MM 2024 | - |
-| [TRAMBA: A Hybrid Transformer and Mamba Architecture for Practical Audio and Bone Conduction Speech Super Resolution and Enhancement on Mobile and Wearable Platforms](https://dl.acm.org/doi/10.1145/3699757
-        
-        ) | - | ACM UbiComp 2024 | - |
+| [TRAMBA: A Hybrid Transformer and Mamba Architecture for Practical Audio and Bone Conduction Speech Super Resolution and Enhancement on Mobile and Wearable Platforms](https://dl.acm.org/doi/10.1145/3699757) | - | ACM UbiComp 2024 | - |
 | [Preference Tuning with Human Feedback on Language, Speech, and Vision Tasks: A Survey](https://arxiv.org/abs/2409.11564) | - | arXiv Nov 2024 | -  |
 | [Let SSMs be ConvNets: State-space Modeling with Optimal Tensor Contractions](https://openreview.net/forum?id=PkpNRmBZ32) | - | ICLR 2025 Spotlight | - |
 | [video-SALMONN: Speech-Enhanced Audio-Visual Large Language Models](https://arxiv.org/abs/2406.15704) | - | ICML 2024 | [Github](https://github.com/bytedance/SALMONN/) |
@@ -88,9 +86,7 @@
 | [SHOW in Generating Holistic 3D Human Motion from Speech](https://openaccess.thecvf.com/content/CVPR2023/papers/Yi_Generating_Holistic_3D_Human_Motion_From_Speech_CVPR_2023_paper.pdf) | - | CVPR 2023 | [Github](https://github.com/yhw-yhw/show) |
 | [TalkSHOW: Generating Holistic 3D Human Motion from Speech](https://openaccess.thecvf.com/content/CVPR2023/papers/Yi_Generating_Holistic_3D_Human_Motion_From_Speech_CVPR_2023_paper.pdf) | - | CVPR2023 | [Github](https://github.com/yhw-yhw/talkshow) |
 | [Conformers are All You Need for Visual Speech Recognition](https://ieeexplore.ieee.org/document/10446532) | - |  ICASSP 2024 | - |
-| [DiffMotion: Speech-Driven Gesture Synthesis Using Denoising Diffusion Model](https://link.springer.com/chapter/10.1007/978-3-031-27077-2_18
-        
-        )| - | MMM 2023 | - |
+| [DiffMotion: Speech-Driven Gesture Synthesis Using Denoising Diffusion Model](https://link.springer.com/chapter/10.1007/978-3-031-27077-2_18)| - | MMM 2023 | - |
 | [Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models](https://arxiv.org/abs/2409.17146)| - | arXiv Dec 2024 | [Github](https://github.com/allenai/molmo)|
 | [i-Code V2: An Autoregressive Generation Framework over Vision, Language, and Speech Data](https://aclanthology.org/2024.findings-naacl.105/) | - | 2024.findings-naacl | - |
 | [FINE-GRAINED AUDIO-VISUAL JOINT REPRESENTATIONS FOR MULTIMODAL LARGE LANGUAGE MODELS](https://openreview.net/forum?id=wD8L86iCvD) | - | ICLR 2024 | [Github](https://github.com/the-anonymous-bs/av-SALMONN) |
