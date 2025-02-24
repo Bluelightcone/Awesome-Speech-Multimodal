@@ -71,7 +71,6 @@
 | [HeadStudio: Text to Animatable Head Avatars with 3D Gaussian Splatting](https://arxiv.org/abs/2402.06149) | - | ECCV 2024 | [Github](https://github.com/ZhenglinZhou/HeadStudio) |
 | [VLOGGER: Multimodal Diffusion for Embodied Avatar Synthesis](https://arxiv.org/abs/2403.08764) | - | - |
 | [Batched Low-Rank Adaptation of Foundation Models](https://openreview.net/forum?id=w4abltTZ2f) | - | ICLR 2024 oral |  - |
-| [i-Code Studio: A Configurable and Composable Framework for Integrative AI](https://aclanthology.org/2024.emnlp-demo.2.pdf) | - | emnlp 2024 | [Github](https://github.com/microsoft/i-Code/tree/main/i-Code-Studio) |
 | [Masked Autoencoders that Listen](https://openreview.net/forum?id=MAMOi89bOL) | - | NeurIPS 2022 | [Github](https://github.com/facebookresearch/AudioMAE) |
 | [An Introduction to Adversarially Robust Deep Learning](https://ieeexplore.ieee.org/document/10313059) | - | TPAMI 2024 | - |
 | [AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling](https://aclanthology.org/2024.acl-long.521/) | - | 2024.acl-long  | [Github](https://github.com/OpenMOSS/AnyGPT) |
@@ -82,12 +81,12 @@
 | [SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities](https://arxiv.org/abs/2305.11000) | - | arXiv May 2023  | [Github](https://github.com/0nutation/SpeechGPT) |
 | [GaussianTalker: Real-Time High-Fidelity Talking Head Synthesis with Audio-Driven 3D Gaussian Splatting](https://arxiv.org/abs/2404.16012) | - | ACM MM 2024 | [Github](https://github.com/cvlab-kaist/GaussianTalker) |
 | [Generating Holistic 3D Human Motion from Speech](https://openaccess.thecvf.com/content/CVPR2023/papers/Yi_Generating_Holistic_3D_Human_Motion_From_Speech_CVPR_2023_paper.pdf) | - |  CVPR2023 | - |
-| [HeadStudio: Text to Animatable Head Avatars with 3D Gaussian Splatting](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04681.pdf) | - | ECCV 2024 | [Github](https://github.com/zhenglinzhou/headstudio) |
 | [SHOW in Generating Holistic 3D Human Motion from Speech](https://openaccess.thecvf.com/content/CVPR2023/papers/Yi_Generating_Holistic_3D_Human_Motion_From_Speech_CVPR_2023_paper.pdf) | - | CVPR 2023 | [Github](https://github.com/yhw-yhw/show) |
 | [TalkSHOW: Generating Holistic 3D Human Motion from Speech](https://openaccess.thecvf.com/content/CVPR2023/papers/Yi_Generating_Holistic_3D_Human_Motion_From_Speech_CVPR_2023_paper.pdf) | - | CVPR2023 | [Github](https://github.com/yhw-yhw/talkshow) |
 | [Conformers are All You Need for Visual Speech Recognition](https://ieeexplore.ieee.org/document/10446532) | - |  ICASSP 2024 | - |
 | [DiffMotion: Speech-Driven Gesture Synthesis Using Denoising Diffusion Model](https://link.springer.com/chapter/10.1007/978-3-031-27077-2_18)| - | MMM 2023 | - |
 | [Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models](https://arxiv.org/abs/2409.17146)| - | arXiv Dec 2024 | [Github](https://github.com/allenai/molmo)|
+| [i-Code Studio: A Configurable and Composable Framework for Integrative AI](https://aclanthology.org/2024.emnlp-demo.2.pdf) | - | emnlp 2024 | [Github](https://github.com/microsoft/i-Code/tree/main/i-Code-Studio) |
 | [i-Code V2: An Autoregressive Generation Framework over Vision, Language, and Speech Data](https://aclanthology.org/2024.findings-naacl.105/) | - | 2024.findings-naacl | - |
 | [FINE-GRAINED AUDIO-VISUAL JOINT REPRESENTATIONS FOR MULTIMODAL LARGE LANGUAGE MODELS](https://openreview.net/forum?id=wD8L86iCvD) | - | ICLR 2024 | [Github](https://github.com/the-anonymous-bs/av-SALMONN) |
 | [Whisper: Robust Speech Recognition](https://arxiv.org/abs/2212.04356) | - | OpenAI Dec 2022 | [Github](https://github.com/openai/whisper) |
