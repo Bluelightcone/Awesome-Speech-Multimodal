@@ -38,7 +38,7 @@
 | [Toward Large-scale Spiking Neural Networks: A Comprehensive Survey and Future Directions](https://arxiv.org/abs/2409.02111) | - | Aug 2024 | - |
 | [Learn2Talk: 3D Talking Face Learns from 2D Talking Face](https://arxiv.org/abs/2404.12888) | - | TVCG 2024 | - |
 | [Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive Modality Alignment](https://arxiv.org/abs/2502.04328) | - | ACM MM 2024 | - |
-| [TRAMBA: A Hybrid Transformer and Mamba Architecture for Practical Audio and Bone Conduction Speech Super Resolution and Enhancement on Mobile and Wearable Platforms](https://dl.acm.org/doi/10.1145/3699757) | - | ACM UbiComp 2024 ｜ - ｜
+| [TRAMBA: A Hybrid Transformer and Mamba Architecture for Practical Audio and Bone Conduction Speech Super Resolution and Enhancement on Mobile and Wearable Platforms](https://dl.acm.org/doi/10.1145/3699757) | - | ACM UbiComp 2024 | - |
 | [Preference Tuning with Human Feedback on Language, Speech, and Vision Tasks: A Survey](https://arxiv.org/abs/2409.11564) | - | arXiv Nov 2024 | -  |
 | [Let SSMs be ConvNets: State-space Modeling with Optimal Tensor Contractions](https://openreview.net/forum?id=PkpNRmBZ32) | - | ICLR 2025 Spotlight | - |
 | [video-SALMONN: Speech-Enhanced Audio-Visual Large Language Models](https://arxiv.org/abs/2406.15704) | - | ICML 2024 | [Github](https://github.com/bytedance/SALMONN/) |
@@ -48,7 +48,7 @@
 | [Quilt-LLaVA: Visual Instruction Tuning by Extracting Localized Narratives from Open-Source Histopathology Videos](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Seyfioglu_Quilt-LLaVA_Visual_Instruction_CVPR_2024_supplemental.pdf) | - | CVPR 2024 | [Github](https://github.com/aldraus/quilt-llava) |
 | [Parameter-Efficient Fine-Tuning for Medical Image Analysis: The Missed Opportunity](https://openreview.net/forum?id=LVRhXa0q5r) | - | MIDL 2024 Oral | - |
 | [Improving Medical Speech-to-Text Accuracy using Vision-Language Pre-training Models](https://ieeexplore.ieee.org/document/10372102) | - | IEEE Journal of Biomedical and Health Informatics  2024 | - |
-| [MixCon: A Hybrid Architecture for Efficient and Adaptive Sequence Modeling](https://zhouchenlin.github.io/Publications/2024-ECAI-MixCon.pdf) | - | ECAI 2024 ｜ -  |
+| [MixCon: A Hybrid Architecture for Efficient and Adaptive Sequence Modeling](https://zhouchenlin.github.io/Publications/2024-ECAI-MixCon.pdf) | - | ECAI 2024 | - |
 | [Multimodal Latent Language Modeling with Next-Token Diffusion](https://arxiv.org/abs/2412.08635) | - | arXiv Dec 2024  | [Github](https://github.com/microsoft/unilm/tree/master/LatentLM) |
 | [DLF: Disentangled-Language-Focused Multimodal Sentiment Analysis](https://arxiv.org/abs/2412.12225) | - | AAAI 2025  |  [Github](https://github.com/pwang322/DLF) |
 | [EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation](https://arxiv.org/abs/2411.10061) | - | Nov 2024 | [Github](https://github.com/antgroup/echomimic) |
