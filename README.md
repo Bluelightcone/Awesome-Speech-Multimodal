@@ -1,10 +1,8 @@
 # Awesome-Speech-Multimodal
 | Paper                                                                                                   | Method | Venue                      | Code    |
 |---------------------------------------------------------------------------------------------------------|--------|----------------------------|---------|
-| [Interactive Shape Sonification for Tumor Localization in Breast Cancer Surgery](https://dl.acm.org/doi/10.1145/3613904.3642257 ) | - | CHI '24 |  - |
-| [LSMS: Language-guided Scale-aware MedSegmentor for Medical Image Referring Segmentation](https://arxiv.org/abs/2408.17347) | - | arXiv Sep 2024 | - |
 | [TV-SAM: Increasing Zero-Shot Segmentation Performance on Multimodal Medical Images Using GPT-4 Generated Descriptive Prompts Without Human Annotation](https://arxiv.org/ftp/arxiv/papers/2402/2402.15759.pdf)| - |BDMA 2024 |[Github](https://github.com/JZK00/TV-SAM) |
-| [Eye-gaze Guided Multi-modal Alignment for Medical Representation Learning](https://openreview.net/forum?id=0bINeW40u4&noteId=sT5VFY5SOC) | - | NeurIPS 2024 poster | -  |
+| [Eye-gaze Guided Multi-modal Alignment for Medical Representation Learning](https://openreview.net/forum?id=0bINeW40u4&noteId=sT5VFY5SOC) | - | NeurIPS 2024 | -  |
 | [Wav2Vec2.0: Self-supervised learning for speech recognition](https://proceedings.neurips.cc/paper/2020/file/92d1e1eb1cd6f9fba3227870bb6d7f07-Paper.pdf) | - | Neurips 2020 | [Github](https://github.com/facebookresearch/fairseq) |
 | [Speech-Driven Image Editing](https://openaccess.thecvf.com/content/CVPR2024/papers/Lin_Text-Driven_Image_Editing_via_Learnable_Regions_CVPR_2024_paper.pdf) | - | CVPR 2024 | [Github](https://yuanze-lin.me/LearnableRegions_page/) |
 | [ViLReF: An Expert Knowledge Enabled Vision-Language Retinal Foundation Model](https://arxiv.org/abs/2408.10894) | - | Tip 2024  | [Github](https://github.com/T6Yang/ViLReF) |
@@ -49,7 +47,7 @@
 | [Quilt-1M: One Million Image-Text Pairs for Histopathology](https://proceedings.neurips.cc/paper_files/paper/2023/file/775ec578876fa6812c062644964b9870-Paper-Datasets_and_Benchmarks.pdf) | - | NeurIPS 2023 Track on Datasets and Benchmarks |  [Github](https://github.com/wisdomikezogwo/quilt1m) |
 | [Quilt-LLaVA: Visual Instruction Tuning by Extracting Localized Narratives from Open-Source Histopathology Videos](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Seyfioglu_Quilt-LLaVA_Visual_Instruction_CVPR_2024_supplemental.pdf) | - | CVPR 2024 | [Github](https://github.com/aldraus/quilt-llava) |
 | [Parameter-Efficient Fine-Tuning for Medical Image Analysis: The Missed Opportunity](https://openreview.net/forum?id=LVRhXa0q5r) | - | MIDL 2024 Oral | - |
-| [Improving Medical Speech-to-Text Accuracy using Vision-Language Pre-training Models](https://ieeexplore.ieee.org/document/10372102) | - | IEEE Journal of Biomedical and Health Informatics  2024 | - 
+| [Improving Medical Speech-to-Text Accuracy using Vision-Language Pre-training Models](https://ieeexplore.ieee.org/document/10372102) | - | IEEE Journal of Biomedical and Health Informatics  2024 | - |
 | [MixCon: A Hybrid Architecture for Efficient and Adaptive Sequence Modeling](https://zhouchenlin.github.io/Publications/2024-ECAI-MixCon.pdf) | - | ECAI 2024 ｜ -  |
 | [Multimodal Latent Language Modeling with Next-Token Diffusion](https://arxiv.org/abs/2412.08635) | - | arXiv Dec 2024  | [Github](https://github.com/microsoft/unilm/tree/master/LatentLM) |
 | [DLF: Disentangled-Language-Focused Multimodal Sentiment Analysis](https://arxiv.org/abs/2412.12225) | - | AAAI 2025  |  [Github](https://github.com/pwang322/DLF) |
